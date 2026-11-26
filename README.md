@@ -6,6 +6,7 @@ This project involves designing and building a portable audio amplifier using th
 
 The amplifier includes adjustable volume, gain control, and a bass boost feature to improve the audio listening experience.
 
+
 2.Hardware Components
 
 LM386 IC
@@ -33,6 +34,7 @@ Audio Jack
 Speaker 
 
 240v to 12v Step-down Transformer
+
 
 3.Working Principle
 
