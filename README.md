@@ -2,9 +2,7 @@
 
 1.Project Overview
 
-This project involves designing and building a portable audio amplifier using the LM386 audio amplifier IC. The circuit amplifies low-level audio signals and delivers the amplified output to a speaker.
-
-The amplifier includes adjustable volume, gain control, and a bass boost feature to improve the audio listening experience.
+This project involves designing and building a portable audio amplifier using the LM386 audio amplifier IC. The circuit amplifies low-level audio signals and delivers the amplified output to a speaker.The amplifier includes adjustable volume, gain control, and a bass boost feature to improve the audio listening experience.
 
 
 2.Hardware Components
